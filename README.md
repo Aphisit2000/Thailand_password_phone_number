@@ -1,5 +1,5 @@
-# Thailand_wifi_Password
-Thailand WIFI Password Phone Number
+# Thailand wifi Password Dictionary
+Common Password List
 
 	06
 
