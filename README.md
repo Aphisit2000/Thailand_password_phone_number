@@ -1,4 +1,4 @@
-# Thailand_password_phone_number
+# Thailand_wifi_Password
 Thailand WIFI Password Phone Number
 
 	06
