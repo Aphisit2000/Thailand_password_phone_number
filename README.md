@@ -1,4 +1,4 @@
-# Thailand wifi Password Dictionary
+# Thailand wifi Password List
 Common Password List
 
 	06
