@@ -9,26 +9,26 @@ This script generates multiple text files containing potential WiFi passwords, w
 
 In Thailand, WiFi passwords are frequently set using:
 
-• Mobile phone numbers (starting with ```08```, ```09```, or ```06```)
+ • Mobile phone numbers (starting with ```08```, ```09```, or ```06```)
 
-• Custom name-based sequences (e.g., ```nameWIFI0000```)
+ • Custom name-based sequences (e.g., ```nameWIFI0000```)
 
-• Simple numeric sequences
+ • Simple numeric sequences
 
 
 ## Generated Files
 
 The script produces five password list files:
 
-1. part1.txt - Generates numeric sequences from ```00000000``` to ```99999999```, prefixed with ```08``` (common mobile number format in Thailand).
+ 1. part1.txt - Generates numeric sequences from ```00000000``` to ```99999999```, prefixed with ```08``` (common mobile number format in Thailand).
 
-2. part2.txt - Generates numeric sequences from ```00000000``` to ```99999999```, prefixed with ```09``` (common mobile number format in Thailand).
+ 2. part2.txt - Generates numeric sequences from ```00000000``` to ```99999999```, prefixed with ```09``` (common mobile number format in Thailand).
 
-3. part3.txt - Generates numeric sequences from ```00000000``` to ```99999999``` with no prefix.
+ 3. part3.txt - Generates numeric sequences from ```00000000``` to ```99999999``` with no prefix.
 
-4. part4.txt - Generates numeric sequences from ```00000000``` to ```99999999```, prefixed with ```06``` (another common mobile number format in Thailand).
+ 4. part4.txt - Generates numeric sequences from ```00000000``` to ```99999999```, prefixed with ```06``` (another common mobile number format in Thailand).
 
-5. CustomLIS.txt - Generates a list of potential WiFi passwords with a custom prefix (nameWIFI) followed by a four-digit numeric sequence (```0000``` to ```9999```).
+ 5. CustomLIS.txt - Generates a list of potential WiFi passwords with a custom prefix (nameWIFI) followed by a four-digit numeric sequence (```0000``` to ```9999```).
 
 
 Usage
@@ -44,11 +44,11 @@ This will generate large password lists, so ensure you have sufficient disk spac
 
 ## Notes
 
-• The generated files are plaintext and can be used with WiFi penetration testing tools like ```hashcat``` or ```aircrack-ng```.
+ • The generated files are plaintext and can be used with WiFi penetration testing tools like ```hashcat``` or ```aircrack-ng```.
 
-• The script may take a significant amount of time and system resources due to the large number of iterations.
+ • The script may take a significant amount of time and system resources due to the large number of iterations.
 
-• Modify the script to add more prefixes or custom formats as needed.
+ • Modify the script to add more prefixes or custom formats as needed.
 
 
 ## Disclaimer
