@@ -36,7 +36,7 @@ Usage
 Run the script in a Python environment:
 
 ```
-python script.py
+python THAIpasswd.py
 ```
 
 This will generate large password lists, so ensure you have sufficient disk space before execution.
