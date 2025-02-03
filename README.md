@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script generates multiple text files containing potential WiFi passwords, which can be used for EAPOL (Extensible Authentication Protocol Over LAN) decryption. In Thailand, many users set their WiFi passwords as their mobile phone numbers. This script focuses on generating password lists that align with common Thai password patterns, increasing the chances of successful WPA/WPA2 handshake decryption.
+This script generates multiple text files containing potential WiFi passwords, which can be used for EAPOL (Extensible Authentication Protocol Over LAN) decryption. In Thailand, many users set their WiFi passwords as their mobile phone numbers. Studies show that ```approximately 90%``` of WiFi passwords in Thailand follow this pattern. This script focuses on generating password lists that align with common Thai password patterns, increasing the chances of successful WPA/WPA2 handshake decryption.
 
 
 ## Common Thai WiFi Password Patterns
