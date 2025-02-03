@@ -1,4 +1,4 @@
-# WiFi Thai Password List Generator for EAPOL Decryption
+# Thai Password List Generator for EAPOL Decryption
 
 ## Overview
 
